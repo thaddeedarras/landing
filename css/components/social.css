@@ -1,0 +1,68 @@
+#facebook:hover {
+    color: #1877f2;
+}
+
+#linkedin:hover {
+    color: #0e76a8;
+}
+
+#instagram:hover {
+    color: #c32aa3;
+}
+
+.social {
+    padding: 20px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: 15px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.social ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+.social li {
+    margin-right: 1rem;
+}
+
+.social:nth-child(even) {
+    background-color: #ffffff;
+}
+
+.social h3 {
+    margin-bottom: 1rem;
+
+}
+
+.linkedin {
+    color: #0e76a8;
+}
+
+.facebook {
+    color: #1877f2;
+}
+
+.instagram {
+    color: #c32aa3;
+}
+
+.facebook:hover {
+    color: #043e8a;
+}
+
+.linkedin:hover {
+    color: #054a6a;
+}
+
+.instagram:hover {
+    color: #61064d;
+}
